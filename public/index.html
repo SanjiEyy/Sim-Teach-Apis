@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sim And Teach Apis</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    h1 {
+      margin-top: 20px;
+    }
+    .button {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 30px;
+      font-size: 18px;
+      font-weight: bold;
+      color: white;
+      background-color: #007bff;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+    .container {
+      margin-top: 50px;
+    }
+    p {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sim and Teach APIs</h1>
+    <p>This API has two main functionalities:</p>
+    <a href="/sim?ask=your-question" class="button">Sim</a>
+    <a href="/teach?ask=your-question&ans=your-answer" class="button">Teach</a>
+    <p>To use these endpoints, replace <code>your-question</code> with your query and <code>your-answer</code> with the answer you want to teach the API.</p>
+  </div>
+</body>
+</html>

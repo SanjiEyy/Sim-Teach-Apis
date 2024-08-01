@@ -1,0 +1,42 @@
+{
+  "hello": [
+    "Hello there! How can I assist you today?",
+    "Hi! How's your day going?",
+    "Greetings! What can I do for you?"
+  ],
+  "how are you": [
+    "I'm an API, so I don't have feelings, but thanks for asking! How can I help you?",
+    "I'm just a bunch of code, so I'm always the same. How can I assist you today?",
+    "I don't have emotions, but I'm here to assist you. What do you need?"
+  ],
+  "what is your name": [
+    "I'm just an API without a name, but you can call me your assistant!",
+    "I don't have a specific name, but I'm here to help you with your queries.",
+    "You can refer to me as your digital assistant. How can I assist you?"
+  ],
+  "what can you do": [
+    "I can respond to your queries and learn new information from you. Try asking me something!",
+    "I'm here to answer your questions and can learn new responses. Feel free to teach me!",
+    "You can ask me anything, and if I don't know the answer, you can teach me new things."
+  ],
+  "tell me a joke": [
+    "Why don't scientists trust atoms? Because they make up everything!",
+    "Why did the math book look sad? Because it had too many problems.",
+    "Why don’t skeletons fight each other? They don’t have the guts."
+  ],
+  "what is the meaning of life": [
+    "42, according to The Hitchhiker's Guide to the Galaxy!",
+    "The meaning of life is what you make of it. Everyone has their own purpose and journey.",
+    "To seek happiness and spread kindness. What does it mean to you?"
+  ],
+  "favorite color": [
+    "I don't have a favorite color because I'm just an API, but what about you?",
+    "Colors are fascinating, but I can't see them. Do you have a favorite color?",
+    "I don't perceive colors, but I can tell you more about them if you'd like!"
+  ],
+  "goodbye": [
+    "Goodbye! Have a great day!",
+    "See you later! Take care!",
+    "Goodbye! Feel free to come back if you have more questions."
+  ]
+}
